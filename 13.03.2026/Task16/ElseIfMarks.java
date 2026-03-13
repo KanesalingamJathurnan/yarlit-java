@@ -1,6 +1,4 @@
- import java.util.Scanner;
- 
- class ElseIfMarks{
+class ElseIfMarks{
 	public static void main(String args[]){
 		int marks=60;
 	
